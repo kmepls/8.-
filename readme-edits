@@ -1,0 +1,18 @@
+package com.javarush.task.task15.task1513;
+/*
+саше про 8 марта. всем девушкам обязательно дарить мото красно черные на 8 марта, поэтому жду:3
+*/
+
+public class Solution {
+     public static void main(String[] args) {
+}
+
+public interface Runnable {
+}
+public class Machine implents Runnable {
+}
+public class Car extends machine {
+}
+}
+
+ 
